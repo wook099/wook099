@@ -13,9 +13,7 @@
 ## 🧰 Tech Stack
 ## 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
