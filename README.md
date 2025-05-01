@@ -40,6 +40,7 @@
 - 📮 Email: codnrud9@gmail.com  
 - 🧳 Notion 정리: [woo9i](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
 - 📱 Instagram: [woo9i_](https://www.instagram.com/woo9i_)
+- 🧳 Notion 정리: [woo9i](https://www.notion.so/1bad98445e6580d5aa81f9095feaad6a)
 
 ---
 
