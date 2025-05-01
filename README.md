@@ -28,6 +28,7 @@
 ---
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=default" width="47%" />
 
 
 ---
