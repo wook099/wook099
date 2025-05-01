@@ -32,25 +32,10 @@
 
 ---
 
-## 🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 📊 Top Langs
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏅 Solved.ac Profile
-
-<p align="center">
   <a href="https://solved.ac/codnrud99">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" />
   </a>
