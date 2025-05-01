@@ -28,7 +28,8 @@
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=default" width="47%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wook099&theme=github_dark" width="47%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wook099&theme=github_dark" width="47%" />
 
 
 ---
