@@ -2,18 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB86C&height=220&section=header&text=WELCOME%20wook099's%20GIT&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=2E2E2E" />
 </p>
 
-<h2 align="center"> 채우경 | Backend Developer</h2>
+<h2 align="center">채우경 | Backend Developer</h2>
 
 <p align="center">
-   작고 꾸준하게, 더 나은 서비스를 만들기 위해 계속 성장하겠습니다 !
+  작고 꾸준하게, 더 나은 서비스를 만들기 위해 계속 성장하겠습니다!
 </p>
 
 ---
 
 ## 🧰 Tech Stack
-## 🚀 GitHub Stats
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -30,22 +27,31 @@
 
 ---
 
+## 🚀 GitHub Stats & Solved.ac
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&theme=radical" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical" />
+</p>
 
+<p align="center">
+  <a href="https://solved.ac/codnrud99">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" />
+  </a>
+</p>
 
-
+---
 
 ## 📬 Contact
 
 - 📝 [Velog 블로그](https://velog.io/@your-id)
-- 📮 Email: codnrud9@gmail.com
+- 📮 Email: codnrud9@gmail.com  
 - 🧳 Notion 정리: [바로가기](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
 - 📱 Instagram: [woo9i_](https://www.instagram.com/woo9i_)
-- 🏅 백준 ID: [codnrud99](https://www.acmicpc.net/user/codnrud99)
 
 ---
 
 <p align="center">
-  <em style="color: #4C8EAD;">"쾌적하고 깔끔한 코드를 구현하기 위해 노력 중입니다. 꾸준히 성장하는 개발자가 되고 싶습니다."<br/> 
-  많이 배우고 성장하여 더 나은 코드를 구현하겠습니다. 🌿
+  <em style="color:#4C8EAD;">"쾌적하고 깔끔한 코드를 구현하기 위해 노력 중입니다. 꾸준히 성장하는 개발자가 되고 싶습니다."<br/>
+  많이 배우고 성장하여 더 나은 코드를 구현하겠습니다. 🌿</em>
 </p>
