@@ -27,20 +27,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&theme=calm&hide_title=false" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=calm" width="47%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=wook099&theme=calm&hide_border=true" width="75%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=wook099&theme=gruvbox&row=1&column=6" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wook099&theme=calm" width="80%" />
 
 </div>
 
