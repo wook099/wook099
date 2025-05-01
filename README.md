@@ -13,36 +13,28 @@
 
 ## 🧰 Tech Stack
 
-### 🔧 Back-End
-- Java, Spring Boot, Spring Security
-- JPA (Hibernate), JWT, OAuth2
-
-### 🗄️ Database
-- MySQL, Redis
-- 트랜잭션, DB 설계 경험
-
-### ⚙️ Dev & Tools
-- Git, GitHub, Docker, Postman, IntelliJ
-- Thymeleaf, RESTful API 설계
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wook099&theme=calm" width="80%" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-9C2C2C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D83C40?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Side Projects
+## 🚀 Projects & Contributions
 
-| 프로젝트 | 설명 | 기술 스택 |
-|----------|------|-----------|
-| 🌤️ 무드 일기 & 음악 추천기 | 감정 기반 음악 추천 + 감정 캘린더 기록 | Spring Boot, Spotify API, GPT |
-| 🕒 근태 관리 시스템 | 사내 근태 신청/결재/조회 기능 구현 | Spring Boot, MySQL, Thymeleaf |
+### 🔧 Active Contributions
+- **Backend 개발 및 설계**: 지속적인 서비스 개선과 백엔드 개발을 위한 참여
+- **오픈소스 기여**: GitHub에서 다양한 프로젝트에 기여 중
 
 ---
 
