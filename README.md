@@ -31,6 +31,7 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&theme=calm&hide_title=false" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=calm" width="47%" />
 
 <br/><br/>
@@ -65,6 +66,6 @@
 ---
 
 <p align="center">
-  <em>"많이 배우고 성장하여 더 나은 코드를 구현하겠습니다."<br/> 
-  더 나은 팀, 더 나은 제품을 만들어가는 여정을 함께하고 있습니다. 🌿
+  <em style="color: #4C8EAD;">"대화내용 쾌적하고 깔끔한 코드를 구현하기 위해 노력중입니다. 꾸준히 성장하는 개발자가 되고 싶습니다."<br/> 
+  많이 배우고 성장하여 더 나은 코드를 구현하겠습니다. 🌿
 </p>
