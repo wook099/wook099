@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=FA91D2&center=true&vCenter=true&width=500&lines=안녕하세요%2C+백엔드+개발자+채우경입니다!;탄탄하고+따뜻한+서비스를+만들고+싶어요.;기술과+사람을+연결하는+개발자가+꿈입니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=4C8EAD&center=true&vCenter=true&width=500&lines=안녕하세요%2C+백엔드+개발자+채우경입니다!;기술로+사람들에게+즐거움을+주고+싶어요.;함께+성장하고+나아가는+개발자가+꿈입니다.)](https://git.io/typing-svg)
 
 ---
 
 <h2 align="center">🪄 채우경 | Backend Developer</h2>
 
 <p align="center">
-  늘 ‘왜?’를 고민하며, 기술보다 <b>사람 중심의 개발</b>을 추구합니다.<br>
-  작고 느려도 꾸준히, 의미 있는 방향으로 성장 중입니다. 🐢
+  기술은 도구일 뿐, 중요한 건 <b>사람 중심의 개발</b>입니다.<br>
+  저는 작고 꾸준하게, 더 나은 서비스를 만들기 위해 계속 배우고 있습니다. 🐢
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ### 🗄️ Database
 - MySQL, Redis
-- 트랜잭션, Index 튜닝, DB 설계 경험
+- 트랜잭션, DB 설계 경험
 
 ### ⚙️ Dev & Tools
 - Git, GitHub, Docker, Postman, IntelliJ
@@ -58,12 +58,14 @@
 ## 📬 Contact
 
 - 📝 [Velog 블로그](https://velog.io/@your-id)
-- 📮 Email: your.email@example.com
+- 📮 Email: codnrud9@gmail.com
 - 🧳 Notion 포트폴리오: [바로가기](https://your-notion-link)
+- 📱 Instagram: [woo91_](https://www.instagram.com/woo91_)
+- 🏅 백준 ID: [codnrud99](https://www.acmicpc.net/user/codnrud99)
 
 ---
 
 <p align="center">
-  <em>"코드보다 중요한 건 함께 일하는 사람이라고 생각합니다."<br/> 
-  더 좋은 팀, 더 좋은 제품, 더 좋은 사용 경험을 위해 성장 중입니다. 🌿
+  <em>"함께 일하는 사람이 가장 중요하다고 믿어요."<br/> 
+  더 나은 팀, 더 나은 제품을 만들어가는 여정을 함께하고 있습니다. 🌿
 </p>
