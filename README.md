@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=4C8EAD&center=true&vCenter=true&width=500&lines=안녕하세요%2C+백엔드+개발자+채우경입니다!;기술로+사람들에게+즐거움을+주고+싶어요.;함께+성장하고+나아가는+개발자가+꿈입니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=F68E53&center=true&vCenter=true&width=500&lines=안녕하세요%2C+백엔드+개발자+채우경입니다!;기술로+사람들에게+즐거움을+주고+싶어요.;함께+성장하고+나아가는+개발자가+꿈입니다.)](https://git.io/typing-svg)
 
 ---
 
@@ -31,7 +31,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&theme=calm&hide_title=false" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=calm" width="47%" />
 
 <br/><br/>
@@ -59,13 +58,13 @@
 
 - 📝 [Velog 블로그](https://velog.io/@your-id)
 - 📮 Email: codnrud9@gmail.com
-- 🧳 Notion 포트폴리오: [바로가기](https://your-notion-link)
-- 📱 Instagram: [woo91_](https://www.instagram.com/woo91_)
+- 🧳 Notion 정리: [바로가기](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
+- 📱 Instagram: [woo9i_](https://www.instagram.com/woo9i_)
 - 🏅 백준 ID: [codnrud99](https://www.acmicpc.net/user/codnrud99)
 
 ---
 
 <p align="center">
-  <em>"함께 일하는 사람이 가장 중요하다고 믿어요."<br/> 
+  <em>"많이 배우고 성장하여 더 나은 코드를 구현하겠습니다."<br/> 
   더 나은 팀, 더 나은 제품을 만들어가는 여정을 함께하고 있습니다. 🌿
 </p>
