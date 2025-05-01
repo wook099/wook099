@@ -2,11 +2,10 @@
 
 ---
 
-<h2 align="center">🪄 채우경 | Backend Developer</h2>
+<h2 align="center"> 채우경 | Backend Developer</h2>
 
 <p align="center">
-  기술은 도구일 뿐, 중요한 건 <b>사람 중심의 개발</b>입니다.<br>
-  저는 작고 꾸준하게, 더 나은 서비스를 만들기 위해 계속 배우고 있습니다. 🐢
+   작고 꾸준하게, 더 나은 서비스를 만들기 위해 계속 성장하겠습니다 !
 </p>
 
 ---
@@ -29,13 +28,7 @@
 
 ---
 
-## 🚀 Projects & Contributions
 
-### 🔧 Active Contributions
-- **Backend 개발 및 설계**: 지속적인 서비스 개선과 백엔드 개발을 위한 참여
-- **오픈소스 기여**: GitHub에서 다양한 프로젝트에 기여 중
-
----
 
 ## 📬 Contact
 
@@ -48,6 +41,6 @@
 ---
 
 <p align="center">
-  <em style="color: #4C8EAD;">"대화내용 쾌적하고 깔끔한 코드를 구현하기 위해 노력중입니다. 꾸준히 성장하는 개발자가 되고 싶습니다."<br/> 
+  <em style="color: #4C8EAD;">"쾌적하고 깔끔한 코드를 구현하기 위해 노력 중입니다. 꾸준히 성장하는 개발자가 되고 싶습니다."<br/> 
   많이 배우고 성장하여 더 나은 코드를 구현하겠습니다. 🌿
 </p>
