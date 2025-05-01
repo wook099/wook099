@@ -36,7 +36,7 @@
 
 - 📝 [Velog 블로그] x
 - 📮 Email: codnrud9@gmail.com  
-- 🧳 Notion 정리: [바로가기](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
+- 🧳 Notion 정리: [woo9i](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
 - 📱 Instagram: [woo9i_](https://www.instagram.com/woo9i_)
 
 ---
