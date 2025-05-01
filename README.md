@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=F68E53&center=true&vCenter=true&width=500&lines=안녕하세요%2C+백엔드+개발자+채우경입니다!;기술로+사람들에게+즐거움을+주고+싶어요.;함께+성장하고+나아가는+개발자가+꿈입니다.)](https://git.io/typing-svg)
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F68E53&height=200&section=header&text=WELCOME%20wook099`s%20GIT&fontSize=40&fontAlign=70&fontColor=ffffff&fontAlignY=40" />
+</p>
 
 <h2 align="center"> 채우경 | Backend Developer</h2>
 
