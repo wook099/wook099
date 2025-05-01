@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F68E53&height=200&section=header&text=WELCOME%20wook099`s%20GIT&fontSize=40&fontAlign=70&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F68E53&height=200&section=header&text=WELCOME%20wook099's%20GIT&fontSize=36&fontAlign=50&fontColor=ffffff&fontAlignY=40" />
 </p>
 
 <h2 align="center"> 채우경 | Backend Developer</h2>
