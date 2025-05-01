@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 <!--
 **wook099/wook099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
