@@ -33,6 +33,21 @@
 
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wook099&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical" />
+</p>
+
+---
 
 ## 📬 Contact
 
