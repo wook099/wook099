@@ -29,18 +29,15 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical)
-
-
----
-## 🏅 Baekjoon Tier
-
 <p align="center">
+  <!-- GitHub Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical" alt="Top Langs" height="170"/>
+
+  <!-- Baekjoon Tier -->
   <a href="https://solved.ac/profile/codnrud99">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" alt="Solved.ac Profile" height="170"/>
   </a>
 </p>
-
 ---
 
 ## 📬 Contact
