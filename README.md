@@ -40,9 +40,9 @@
 
 ## 📬 Contact
 
-- 📝 [Velog 블로그] x
+
 - 📮 Email: codnrud99@naver.com  
-- 🧳 Notion 기술정리: [notion](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
+- 🧳 Notion 기술정리: [note](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
 - 📱 Instagram: [insta_](https://www.instagram.com/woo9i_)
 - 🧳 Notion 백준: [codingtest](https://www.notion.so/1bad98445e6580d5aa81f9095feaad6a)
 
