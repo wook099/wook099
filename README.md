@@ -26,28 +26,26 @@
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&show=reviews&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wook099&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wook099&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical&hide_border=true" />
   
 </div>
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 공백 -->
-  <a href="https://solved.ac/profile/codnrud99">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" alt="Solved.ac Profile" />
-  </a>
+  <img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wook099&theme=nord_dark" />
 </div>
 
+---
 
 ## 📬 Contact
-
 
 - 📮 Email: codnrud99@naver.com  
 - 🧳 Notion 기술정리: [note](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
@@ -57,6 +55,6 @@
 ---
 
 <p align="center">
-  <em style="color:#4C8EAD;">쾌적하고 깔끔한 코드를 구현하는 개발자가 되고싶습니다 꾸준히 성장해 나아가겠습니다."<br/>
-  많이 배우고 성장하여 더 나은 코드를 구현하겠습니다. 🌿</em>
+  <em style="color:#4C8EAD;">"쾌적하고 깔끔한 코드를 구현하는 개발자가 되고싶습니다. 꾸준히 성장해 나아가겠습니다.<br/>
+  많이 배우고 성장하여 더 나은 코드를 구현하겠습니다. 🌿"</em>
 </p>
