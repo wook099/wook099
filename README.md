@@ -29,16 +29,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wook099&show_icons=true&show=reviews&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wook099&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wook099&layout=compact&theme=radical&hide_border=true" />
-  
+  <a href="https://solved.ac/codnrud99">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" alt="Solved.ac Profile" />
+  </a>
 </div>
-
 <div align="center">
   <img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wook099&theme=nord_dark" />
 </div>
