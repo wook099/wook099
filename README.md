@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB86C&height=220&section=header&text=WELCOME%20wook099's%20GIT&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=2E2E2E" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB86C&height=120&section=header&text=WELCOME%20wook099's%20GIT&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=2E2E2E" />
 </p>
 
 <h2 align="center">채우경 | Backend Developer</h2>
@@ -35,9 +35,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codnrud99" alt="Solved.ac Profile" />
   </a>
 </div>
-<div align="center">
-  <img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wook099&theme=nord_dark" />
-</div>
+
 
 ---
 
@@ -48,5 +46,5 @@
 ---
 
 <p align="center">
-  <em style="color:#4C8EAD;">"쾌적하고 깔끔한 코드를 구현하는 것을 목표로 하고 있습니다.<br/>
+  <em style="color:#4C8EAD;">쾌적하고 깔끔한 코드를 구현하는 것을 목표로 하고 있습니다.<br/>
 </p>
