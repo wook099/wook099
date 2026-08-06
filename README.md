@@ -42,7 +42,7 @@
 ## 📬 Contact
 
 - 📮 Email: codnrud99@naver.com  
-- 🧳 Notion 기술정리: [note](https://www.notion.so/1c1254c835e680098df4f6e2289346ae?pvs=4)
+- 🧳 Velog : https://velog.io/@wook099/posts
 ---
 
 <p align="center">
